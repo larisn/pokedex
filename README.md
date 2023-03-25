@@ -19,7 +19,6 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 * CSS
 * JavaScript
 * PokeAPI
-<br>
 
 ---
 
