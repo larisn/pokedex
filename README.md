@@ -1,5 +1,5 @@
 <h1 align="center">
-  <br>🔴 Pokedex
+  <br><img src="assets/imagens/Poké_Ball_icon.svg" width="50px"><br> Pokedex
 </h1>
 
 ![Preview](https://github.com/larisn/pokedex/blob/main/assets/imagens/Screenshot_1.png)
