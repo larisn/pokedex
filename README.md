@@ -16,7 +16,7 @@
 
 ## 🕹 Sobre
 
-> É um projeto 100% responsivo onde desenvolvi uma listagem de pokémon integrada com a PokeAPI, foi minha primeira vez utilizando uma API, aprendi muitos conceitos durante o processo, como: a procurar e utilizar os elementos da documentação corretamente, fazer uma requisição HTTP, utilizar os métodos de array do javascript, entre outras coisas. 
+> É um projeto 100% responsivo onde desenvolvi uma listagem de pokémon integrada com a PokeAPI, foi minha primeira vez utilizando uma API, aprendi muitos conceitos durante o processo, como: a procurar e utilizar os elementos da documentação corretamente, fazer uma requisição HTTP, implementar um botão de "ver mais", utilizar os métodos de array do javascript, entre outras coisas. 
 
 <br>
 
