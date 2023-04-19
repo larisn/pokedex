@@ -6,14 +6,18 @@
 }
 
 body {
-    background-color: #08000f;
+    background-color: rgb(201, 48, 48);
 }
 
 .content {
     width: 100vw;
     height: 100vh;
     padding: 1rem;
-    background-color: #08000f;
+    background: linear-gradient(to top, rgb(201, 48, 48), rgb(172, 44, 44));
     padding: 0 60px;
+}
+
+::-webkit-scrollbar {
+    background: transparent;
 }
 

@@ -4,7 +4,7 @@
         max-width: 992px;
         height: auto;
         margin: 1rem auto;
-        border-radius: 1rem;
+        border-radius: 1.5rem;
     }
 
     .pokemons {
@@ -12,9 +12,12 @@
     }
 }
 
-@media screen and (min-width: 380px) {
+@media screen and (min-width: 440px) {
     .pokemons {
         grid-template-columns: repeat(2, 1fr);
+    }
+    .content {
+        height: 100%;
     }
 }
 
